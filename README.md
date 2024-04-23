@@ -13,7 +13,9 @@ Internet Information Services (IIS)
 
 
 
+Installation Steps
 
+Step 1 : Log into osticket using the credentials you made. 
 
 
 
