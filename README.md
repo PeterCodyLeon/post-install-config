@@ -1,3 +1,30 @@
+
+Environments and Technologies Used
+
+Windows 10
+
+Internet Information Services (IIS)
+
+
+
+
+
+
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/73293075-cc67-4291-87a3-12b4d2525ae7)
+
+
+
+![image](https://github.com/PeterCodyLeon/osticket-prereqs/assets/161895166/9f5bd5d8-b2f7-4761-a958-45d8389ce1a3)
+
+
+
+
+
+
+
+
+
 Post Installation Setup
 -----------
 
