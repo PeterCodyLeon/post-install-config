@@ -114,11 +114,38 @@ Username: jane.doe
 
 Click Set Password and uncheck the box that says "Send the Agent a Password Reset Email"
 
-Set your password to anything you like
+Set your passowrd and ensure that it has secure credentials.
 
 Uncheck the box that says "Require Password Change at Next Login"
 
-Select set
+Click select password
 
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/6b844424-1e5a-4556-bf39-6bf93b9cd12a)
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/59b42166-ad95-4cbc-b6ba-3a0c7118a79e)
+
+
+Select the Access tab
+
+Under Primary Department:
+
+Select the Department dropdown menu > System Administrators
+
+Select the Role dropdown menu > Supreme Admin
+
+Extended Accesss
+
+Select Department > Support > Add > Supreme Admin
+
+Select Team tab
+
+Select Team dropdown menu > Level II Support
+
+Select Add
+
+Select Create
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/74fd9e9b-a553-4308-9b85-82dc53adfb0d)
+
+
 
