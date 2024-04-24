@@ -197,3 +197,19 @@ Select Add User
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/c834c58c-c50e-4183-801c-f0adfd02e028)
 
 
+Step 8: Configure Service Level Agreements (SLA)
+
+Iwill create three 
+
+Select the Manage tab > SLA > Add New SLA Plan
+
+Name: SEV-A
+
+Grace Period: 1
+
+Schedule dropdown menu: 24/
+
+Select Add Plan
+
+
+
