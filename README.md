@@ -1,4 +1,4 @@
-
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/1388cd14-d787-4154-9738-eb8757144c62)
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/ebe91775-55c0-4c17-b51c-0dd7329980ed)
 
 
@@ -149,5 +149,27 @@ Select Create
 
 
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/80969693-d89e-4f4d-83a3-698f524e90c5)
+
+
+Create another agent John Doe.
+
+Follow the same steps as above, except make some changes to the Primary Department
+
+Select the Department dropdown menu > Support
+
+Select the Role dropdown menu > View Only
+
+Extended Accesss
+
+Select Department > Support > Save Changes
+
+
+<img width="576" alt="project2 5" src="https://github.com/PeterCodyLeon/post-install-config/assets/161895166/c83589be-5433-4d93-99a9-6a03773b4e32">
+
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/c2c53693-3792-4177-8330-e9508246b3d2)
+
+
+
 
 
