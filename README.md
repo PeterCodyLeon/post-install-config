@@ -102,3 +102,23 @@ Registration Required: Require registration and login to create tickets
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/ba04427e-69ef-48f3-a498-fab424510a23)
 
 
+Step 6: Configure Agents
+
+Select the Agent tab > Add New Agents
+
+Name: Jane Doe
+
+Email : jane.doe(@)osticket.com
+
+Username: jane.doe
+
+Click Set Password and uncheck the box that says "Send the Agent a Password Reset Email"
+
+Set your password to anything you like
+
+Uncheck the box that says "Require Password Change at Next Login"
+
+Select set
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/6b844424-1e5a-4556-bf39-6bf93b9cd12a)
+
