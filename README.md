@@ -99,5 +99,6 @@ Make sure the following box is unchecked:
 Registration Required: Require registration and login to create tickets
 
 
-![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/860a3a76-eee9-4480-b0c0-abfb416a6ed3)
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/ba04427e-69ef-48f3-a498-fab424510a23)
+
 
