@@ -170,6 +170,30 @@ Select Department > Support > Save Changes
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/c2c53693-3792-4177-8330-e9508246b3d2)
 
 
+Step 7: Configure Users
 
+Select the Users tab to create a user
+
+Email Address: Karen(@)osticket.com
+
+Full Name: Karen Karen
+
+Select Add User
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/4f7e12d7-84e7-4985-9876-f9a654ab1a78)
+
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/d683b68c-da60-4d68-84c7-789fb11769b3)
+
+
+Select the User tab again to create another user
+
+Email Address: Ken(@)osticket.com
+
+Full Name: Ken Ken
+
+Select Add User
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/c834c58c-c50e-4183-801c-f0adfd02e028)
 
 
