@@ -1,4 +1,4 @@
-![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/1388cd14-d787-4154-9738-eb8757144c62)
+
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/ebe91775-55c0-4c17-b51c-0dd7329980ed)
 
 
@@ -266,3 +266,4 @@ Select Add Topic for each topic.
 
  4. ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/2603893f-1d92-42b3-8a39-035a7904bc02)
 
+   
