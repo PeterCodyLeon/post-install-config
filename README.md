@@ -203,13 +203,66 @@ I will create three
 
 Go to the Admin Panel then select the Manage tab > SLA > Add New SLA Plan
 
-Name: SEV-A
 
-Grace Period: 1
+1: Name: SEV-A
 
-Schedule dropdown menu: 24/
+   Grace Period: 1
 
-Select Add Plan
+   Schedule dropdown menu: 24/7
+
+   Select Add Plan
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/aabf0bf6-3e93-4391-9cdc-6d570f2347ab)
+
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/3b5541e8-e2a2-4eb8-8e19-85d82a880251)
 
 
+2: Name: SEV-B
+
+  Grace Period: 4
+ 
+  Schedule dropdown menu: 24/7
+
+  Select Add Plan
+    
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/83a312ff-1a9c-40fc-91fd-b76e246091cc)
+
+
+3 :  Name: SEV-C 
+
+   - Grace Period: 8
+  
+   - Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S. Holidays
+  
+   - Select Add Plan
+
+     ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/4401b776-2bb6-4261-959f-1faee8bbeab8)
+     
+
+
+   Step 9: Configure Help Topics
+     
+Help topics helps maps online inquiries to a department and assigns priority without the need for the user to select a department or/and ticket priority. This gives you ability to route inquiries without exposing internal departments.
+
+We will create four Help Topics
+
+Select the Manage tab > Help Topics > Add New Help Topic
+
+Business Critical Outage
+
+Personal Computer Issues
+
+Equipment Request
+
+Password Reset
+
+Select Add Topic for each topic.
+
+ 1. ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/942629b3-5355-46bf-9a87-2e07296b9495)
+
+ 2. ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/1c5472a8-ef60-44ac-ba71-4433fc05404a)
+
+ 3. ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/6234b95c-d392-4f43-a5b8-40e2716cc476)
+
+ 4. ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/2603893f-1d92-42b3-8a39-035a7904bc02)
 
