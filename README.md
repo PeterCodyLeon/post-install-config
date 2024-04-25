@@ -199,9 +199,9 @@ Select Add User
 
 Step 8: Configure Service Level Agreements (SLA)
 
-Iwill create three 
+I will create three  
 
-Select the Manage tab > SLA > Add New SLA Plan
+Go to the Admin Panel then select the Manage tab > SLA > Add New SLA Plan
 
 Name: SEV-A
 
