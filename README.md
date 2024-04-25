@@ -122,6 +122,8 @@ Click select password
 
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/6b844424-1e5a-4556-bf39-6bf93b9cd12a)
 
+![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/8a87f679-4af3-46c3-a73a-33ccd6509f87)
+
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/59b42166-ad95-4cbc-b6ba-3a0c7118a79e)
 
 
