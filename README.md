@@ -64,7 +64,7 @@ Name: System Administrators
 
 Select Create Department
 
-![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/c63ebd21-b31f-4a1a-854e-f30b6b081a85)
+![image](https://github.com/PeterLeonIT/post-install-config/assets/161895166/8464d0d6-8bd1-4729-917a-a3efbd49ca04)
 
 
 ![image](https://github.com/PeterCodyLeon/post-install-config/assets/161895166/bd7904ec-e4d5-4419-9c9b-99c29aa0d765)
